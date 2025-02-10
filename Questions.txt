@@ -1,0 +1,39 @@
+/*
+Question 1:
+Bubs wants you to track information on his customers(first name, last name, email), his employees
+(first name, last name, start date, position held), his products, and the prurchases customers make(
+which customer, when it was purchased, for how much money). Think about how many tables you should create.
+Which data goes in which tables? How should the tables relate to one another?
+*/
+
+/*
+Question 2:
+Given the database design you came up with, use Workbenct to create an EER diagram of database.
+Include things like primary keys and foreign keys, and anything you thing you should have in the
+tables. Make sure to use reasonable data types for each column.
+*/
+
+/*
+Question 3:
+Create a schema called bubsbooties.Within that schema, create the table that
+you have diagramed out. Make sure they relate to each other, and that have
+the same reasonable data types you selected previously.
+*/
+
+/*
+Question 4:
+Add any constrains you think your tables' columns should have. Think through which columns needs to be
+unique, which ones are allowed to have NULL values, etc.
+*/
+
+/*
+Question 5:
+Insert at least 3 records of data into each table. The exact values do not matter, so feel free to make them
+up. Just make sure that the data you insert makes sense, and that the tables tie together.
+*/
+
+/*
+Question 6:
+Create two users and give them access to the database. The first user,TuckerReilly, will be the DBA, and should
+get full database administrator privileges. The second user, EllaBrody, is an Analyst, and only needs read access.
+*/
