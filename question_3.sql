@@ -41,5 +41,6 @@ customerPurchaseId BIGINT NOT NULL,
 customerId BIGINT NOT NULL,
 productId BIGINT NOT NULL,
 employeeId BIGINT NOT NULL,
-purchasedAt DATE NOT NULL,
+purchasedAt TIMESTAMP NOT NULL,
 PRIMARY KEY(customerPurchaseId));
+
